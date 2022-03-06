@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Ramesh has used different tool and build a code!</h2>
+<h2>Ramesh, Krishna and Keerthy have integrated the code and deployed it to the tomcat server!</h2>
 </body>
 </html>
